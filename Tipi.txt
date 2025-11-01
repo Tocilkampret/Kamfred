@@ -169,7 +169,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png",
+/#EXTINF:-1 group-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png",
 
 
 /#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
