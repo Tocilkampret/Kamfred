@@ -1938,10 +1938,13 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 #EXTINF:-1 group-logo="https://www.freepnglogos.com/uploads/music-folder-anything-music-logo-png-2.png",
 
 #EXTINF:-1 tvg-id="MTV90s" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/440px-MTV_90s_2022.svg.png" group-title="Music", MTV 90s 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_mtv_90/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-name="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20250421T234926SQUARE.png" group-title="Music", XITE 90s THROWBACK
 https://jmp2.uk/stvp-USBB3200007AK
@@ -1959,22 +1962,26 @@ https://jmp2.uk/rok-94759dbd58a65682bcc573932f725f46.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Iheart90s" tvg-name="Iheart90s" tvg-logo="https://image.xumo.com/v1/channels/channel/9995100/168x168.png?type=color_onBlack" group-title="Music", iHeart 90s
-/https://dbrb49pjoymg4.cloudfront.net/10001/9995100/hls/playlist.m3u8?ads.xumo_channelId=9995100&ads._fw_ifa_type=&ads._fw_did=f9651d0d-a811-4c22-8c96-57da100781f8&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=iHeart90s&ads.csid=xumo_web_iHeart90s_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3525&ads.xumo_contentName=iHeart90s&ads.xumo_providerId=3525&ads.xumo_providerName=iHeart90s&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995100&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
 
 #EXTINF:-1 tvg-name="iHeart Alternative Radio" tvg-logo="https://image.xumo.com/v1/channels/channel/9995101/168x168.png?type=color_onBlack" group-title="Music", iHeart ALT RADIO
 https://dbrb49pjoymg4.cloudfront.net/10001/9995101/hls/playlist.m3u8?ads.xumo_channelId=9995101&ads._fw_ifa_type=&ads._fw_did=89aabdac-c8e2-4459-a0ea-568e8c254308&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=iHeartAlternativeRadio&ads.csid=xumo_web_iHeartAlternativeRadio_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3524&ads.xumo_contentName=iHeartAlternativeRadio&ads.xumo_providerId=3524&ads.xumo_providerName=iHeartAlternativeRadio&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995101&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 #EXTINF:-1 tvg-name="iHeartRadio Hip Hop Beats" tvg-logo="https://image.xumo.com/v1/channels/channel/9995103/168x168.png?type=color_onBlack" group-title="Music", iHeart HIP HOP BEATS
-/https://dbrb49pjoymg4.cloudfront.net/10001/9995103/hls/playlist.m3u8?ads.xumo_channelId=9995103&ads._fw_ifa_type=&ads._fw_did=2a75080e-5637-43bf-9997-2aa0346646b6&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=iHeartTheBeat&ads.csid=xumo_web_iHeartTheBeat_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3521&ads.xumo_contentName=iHeartTheBeat&ads.xumo_providerId=3521&ads.xumo_providerName=iHeartTheBeat&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995103&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5wBRfF.png" group-title="Music", MTV 00S
 
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/St5DhAU.png" group-title="Music", MTV Live
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
 
 #EXTINF:-1 tvg-name="XITE Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20250421T234930SQUARE.png" group-title="Music", XITE HITS
 https://jmp2.uk/stvp-USBD3300004RH
@@ -1989,7 +1996,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991117/hls/master.m3u8?ads.xumo_cha
 
 
 #EXTINF:0 group-title="Music" tvg-logo="https://pakar.co.id/storage/2019/08/Musica-Studio-768x768.png", MUSICA STUDIO'S
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7619
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo-aq.gif" group-title="Music", AQUARIUS MUSIKINDO 
 
@@ -2018,12 +2026,11 @@ https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Imtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nagaswara.svg/500px-Nagaswara.svg.png" group-title="Music", NAGASWARA KOPLO 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/77KYgbz.png" group-title="Music", CITRA DANGDUT 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"O+MZCT/sikCf4FUxKAiWcQ", "kid":"RKTHOSHqT1+Q6qr3k9P3zw" } ], "type":"temporary" }
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/77KYgbz.png" group-title="Music", CITRA DANGDUT 
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png" group-title="Music", nick music
 
@@ -2042,7 +2049,7 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSXeEvhFCZmf28psLTWSvQiR_MIP9vScXPJA&usqp=CAU", MUSIC TOP
 #http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w7674435128_b2028000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20250630T232447SQUARE.png" group-title="Music",STINGRAY SMOOTH JAZZ
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20250630T232447SQUARE.png" group-title="Music", STINGRAY SMOOTH JAZZ
 https://jmp2.uk/stvp-USBD35000128A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/popmusik.png" group-title="Music", POP musik
