@@ -1726,6 +1726,9 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
 
+#EXTINF:-1 group-title="Sports+" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.hoT9iq5erGitHWXBUD1qHwAAAA?pid=Api&P=0&w=300&h=300", Monomax 1
+https://raw.githubusercontent.com/playtvthai/m3u8/main/m3u8/sports/max1.m3u8
+
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.hoT9iq5erGitHWXBUD1qHwAAAA?pid=Api&P=0&w=300&h=300", Monomax 2
 https://raw.githubusercontent.com/playtvthai/m3u8/main/m3u8/sports/max2.m3u8
 #https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep2.m3u8
