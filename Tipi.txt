@@ -1726,13 +1726,12 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
 
-#EXTINF:-1 group-title="Sports+" tvg-id="beinsports1thailand.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN Sports 1 🇹🇭
+#EXTINF:-1 group-title="Sports+" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.hoT9iq5erGitHWXBUD1qHwAAAA?pid=Api&P=0&w=300&h=300", Monomax 2
+https://raw.githubusercontent.com/playtvthai/m3u8/main/m3u8/sports/max2.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep2.m3u8
 
-
-#EXTINF:-1 tvg-id="bein-sports-2-en" group-title="Sports+" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2 🇹🇭
-
-
-#EXTINF:-1 group-title="Sports+" tvg-id="beinsports3thailand.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png", beIN Sports 3 🇹🇭
+#EXTINF:-1 group-title="Sports+" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.hoT9iq5erGitHWXBUD1qHwAAAA?pid=Api&P=0&w=300&h=300", Monomax 3
+https://raw.githubusercontent.com/playtvthai/m3u8/main/m3u8/sports/max3.m3u8
 
 
 
