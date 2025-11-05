@@ -6,11 +6,11 @@
 
 
 #EXTINF:-1 group-title="test" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg", Test 1
-https://raw.githubusercontent.com/playtvthai/m3u8/refs/heads/main/m3u8/sports/astroepl1.m3u8
+https://raw.githubusercontent.com/playtvthai/m3u8/refs/heads/main/m3u8/sports/astrofb.m3u8
 
 
 
-°°° TV Nasional °°° 
+🇮🇩 TV Nasional 🇮🇩
 
 
 
@@ -1746,8 +1746,9 @@ https://raw.githubusercontent.com/playtvthai/m3u8/main/m3u8/sports/max2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports+", astro SUPERSPORT 
-http://195.26.87.217/live.ts?channelId=125429&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a70NzP2.png" group-title="Sports+", astro Premier League 
+https://raw.githubusercontent.com/playtvthai/m3u8/refs/heads/main/m3u8/sports/astroepl1.m3u8
+/http://195.26.87.217/live.ts?channelId=125429&uid=3453&deviceMac=00:1A:79:01:04:AC
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5YHs2DV.png" group-title="Sports+", astro SUPERSPORT 2
 http://195.26.87.217/live.ts?channelId=125430&uid=3453&deviceMac=00:1A:79:01:04:AC
