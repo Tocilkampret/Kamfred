@@ -58,15 +58,18 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
 https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+/#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+/#KODIPROP:inputstreamaddon=inputstream.adaptive
+/#KODIPROP:inputstream.adaptive.manifest_type=dash
+/#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+/#KODIPROP:inputstream.adaptive.manifest_type=mpd
+/#KODIPROP:mimetype=application/dash+xml
+/#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional", INDOSIAR 
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
+
+/https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 /#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -1816,19 +1819,19 @@ https://a1xs.vip/8000012
 
 
 #EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Sports+", ARENA SPORT 1
-
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-1.m3u8?raw=true
 
 #EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="Sports+", ARENA SPORT 2
-
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-2.m3u8?raw=true
 
 #EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Sports+", ARENA SPORT 3
-
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-3.m3u8?raw=true
 
 #EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="Sports+", ARENA SPORT 4
-
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-4.m3u8?raw=true
 
 #EXTINF:-1 tvg-id="Arena Sport 5.ba" tvg-logo="https://i.imgur.com/036qMgu.png" group-title="Sports+", ARENA SPORT 5
-
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-5.m3u8?raw=true
 
 #EXTINF:-1 tvg-id="Arena Sport 6.ba" tvg-logo="https://i.imgur.com/Z5PE4vx.png" group-title="Sports+", ARENA SPORT 6
 
@@ -1843,7 +1846,7 @@ https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-premium1.m3u8?raw
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-premium2.m3u8?raw=true
 
 #EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://i.imgur.com/gpqemLf.png" group-title="Sports+", ARENA 3 PREMIUM 
-
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-premium3.m3u8?raw=true
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eHJ8Vm3.png" group-title="Sports+", SPORTV 
 
