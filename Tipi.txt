@@ -1977,6 +1977,15 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_mtv_90/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l5wBRfF.png" group-title="Music",MTV 00s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_mtv_00/playlist_cbcs.mpd
+
 #EXTINF:-1 tvg-name="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20250421T234926SQUARE.png" group-title="Music", XITE 90s THROWBACK
 https://jmp2.uk/stvp-USBB3200007AK
 
@@ -1988,6 +1997,10 @@ https://jmp2.uk/rok-4c0772ef75e1565183843b37e91591f8.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/94759dbd58a65682bcc573932f725f46/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113375186_Info_HUD_Logo_260X147_center_%252819%2529.png" group-title="Music", VEVO 2K
 https://jmp2.uk/rok-94759dbd58a65682bcc573932f725f46.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/9RvbyTEtju0ARA_4PIUtKw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTE3NDtxPTgwO3c9MjIw/https://s.yimg.com/zb/imgv1/0bc94b68-8fb4-35c8-b912-cd4efd05b5ab/t_500x300" group-title="Music", NOW 90s 00s
+https://jmp2.uk/plu-660c209e19ca71000846cf38.m3u8
+https://amg01076-amg01076c19-mytvsuper-apac-7915.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music", NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -2001,7 +2014,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/9995101/hls/playlist.m3u8?ads.xumo_ch
 #EXTINF:-1 tvg-name="iHeartRadio Hip Hop Beats" tvg-logo="https://image.xumo.com/v1/channels/channel/9995103/168x168.png?type=color_onBlack" group-title="Music", iHeart HIP HOP BEATS
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l5wBRfF.png" group-title="Music", MTV 00S
 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -2025,6 +2037,10 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991117/hls/master.m3u8?ads.xumo_cha
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="Music", VH1
 
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/channelv.jpg" group-title="Music", CHanneL V 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
+https://gooo.blog/opix/genx.m3u8?id=vchina&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
 #EXTINF:0 group-title="Music" tvg-logo="https://pakar.co.id/storage/2019/08/Musica-Studio-768x768.png", MUSICA STUDIO'S
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -2033,14 +2049,12 @@ https://popmi.my.id/tes.m3u8?id=7619
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo-aq.gif" group-title="Music", AQUARIUS MUSIKINDO 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=142
-#EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/ef/Music_TV_%282014%29.png", Music TV
-https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/ef/Music_TV_%282014%29.png", MUSIC TV
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
 #EXTINF:-1 tvg-logo="https://ikonser.id/assets/img/images/logo-new-1.png" group-title="Music", i konser
 
@@ -2057,11 +2071,15 @@ https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Imtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nagaswara.svg/500px-Nagaswara.svg.png" group-title="Music", NAGASWARA KOPLO 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/77KYgbz.png" group-title="Music", CITRA DANGDUT 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/77KYgbz.png" group-title="Music", Citra DANGDUT 
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/128/9280/9280598.png" group-title="Music", CDI
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
+http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png" group-title="Music", nick music
 
@@ -2101,8 +2119,10 @@ https://live.24hrkpop.com/hls/3/stream.m3u8
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.imgur.com/B7ILXMcr.png" group-title="Music", KPOP2
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://thumbor.prod.vidiocdn.com/LXg-Kd3Sea2o60Wvw82XXsnzTUw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7004/12f134.png", Prambors 
-https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="Music" tvg-logo="https://thumbor.prod.vidiocdn.com/LXg-Kd3Sea2o60Wvw82XXsnzTUw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7004/12f134.png", PRAMBORS 
+https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://thumbor.prod.vidiocdn.com/xpFtUOUrkJU8WgXFlfmsdM45G2M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7092/1f3060.jpg", Delta FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
