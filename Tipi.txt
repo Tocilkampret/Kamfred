@@ -103,22 +103,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png", TRANS 7 
 https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 
-/#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-/#KODIPROP:inputstreamaddon=inputstream.adaptive
-/#KODIPROP:inputstream.adaptive.manifest_type=dash
-/#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-/#KODIPROP:inputstream.adaptive.manifest_type=mpd
-/#KODIPROP:mimetype=application/dash+xml
-/#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.ibb.co.com/Sn8dhqH/TVone-malik.png", tvOne 
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/tvone.m3u8
-
-https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
-
-/#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-/http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -126,12 +110,16 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png", METRO TV 
-https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.ibb.co.com/Sn8dhqH/TVone-malik.png", tvOne 
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 
-/#EXTVLCOPT:http-referrer=http://www.dens.tv/
+/#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+/http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png", METRO TV 
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
 /#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-/http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
+http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png", rtv 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
