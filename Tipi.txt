@@ -69,15 +69,23 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+/#EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png", TRANS TV 
-https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+
+/https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png", TRANS 7 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
@@ -1392,13 +1400,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/EaRVaEX.png", CHAMPIONS TV 1
-http://203.77.246.58:4500/udp/239.1.2.240:5000
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/IgGVlgI.png", CHAMPIONS TV 2 
-http://203.77.246.58:4500/udp/239.1.5.6:5000
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1MBBBBN.png" group-title="Sports", CHAMPIONS TV 3
-http://203.77.246.58:4500/udp/239.1.5.8:5000
+
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yRBAoM6H7dAkEINjwCH-TVbeacE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png" group-title="Sports", CHAMPIONS TV 5 
 
@@ -1642,31 +1650,24 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
 
-#EXTINF:-1 group-title="Sports+" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.hoT9iq5erGitHWXBUD1qHwAAAA?pid=Api&P=0&w=300&h=300", Monomax 1
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130734.m3u8
+#EXTINF:-1 group-title="Sports+" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.hoT9iq5erGitHWXBUD1qHwAAAA?pid=Api&P=0&w=300&h=300", MONOMAX 1
 
-#EXTINF:-1 group-title="Sports+" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.hoT9iq5erGitHWXBUD1qHwAAAA?pid=Api&P=0&w=300&h=300", Monomax 2
-https://raw.githubusercontent.com/playtvthai/m3u8/main/m3u8/sports/max2.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep2.m3u8
+
+#EXTINF:-1 group-title="Sports+" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.hoT9iq5erGitHWXBUD1qHwAAAA?pid=Api&P=0&w=300&h=300", MONOMAX 2
+
 
 /#EXTINF:-1 group-title="Sports+" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.hoT9iq5erGitHWXBUD1qHwAAAA?pid=Api&P=0&w=300&h=300", Monomax 3
 /https://raw.githubusercontent.com/playtvthai/m3u8/main/m3u8/sports/max3.m3u8
 
 
 #EXTINF:-1 group-title="Sports+" tvg-id="beinsports1thailand.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", beIN Sports 1 🇹🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truebeinsport1.m3u8
+
 
 #EXTINF:-1 tvg-id="bein-sports-2-en" group-title="Sports+" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2 🇹🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truebeinsport2.m3u8
+
 
 #EXTINF:-1 group-title="Sports+" tvg-id="beinsports3thailand.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png", beIN Sports 3 🇹🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truebeinsport3.m3u8
+
 
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png?20241118054619", astro Grandstand
 #EXTVLCOPT:http-referrer=https://github.com/
@@ -1712,10 +1713,10 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 
 
 #EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.1.HD.in" tvg-logo="https://i.imgur.com/VFyADIN.png" group-title="Sports+" radio="false", STAR SPORTS SELECT 1 
-https://a1xs.vip/8000011
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starsel.m3u8
 
 #EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-logo="https://i.imgur.com/6u2iOjA.png" group-title="Sports+" radio="false", STAR SPORTS SELECT 2 
-https://a1xs.vip/8000012
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starse2.m3u8
 
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/hWdxcRX.png", LFCTV
 
