@@ -166,7 +166,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png",
+/#EXTINF:-1 group-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png",
 
 
 
@@ -1883,7 +1883,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="iHeart Alternative Radio" tvg-logo="https://image.xumo.com/v1/channels/channel/9995101/168x168.png?type=color_onBlack" group-title="Music", iHeart ALT RADIO
-https://dbrb49pjoymg4.cloudfront.net/10001/9995101/hls/playlist.m3u8?ads.xumo_channelId=9995101&ads._fw_ifa_type=&ads._fw_did=89aabdac-c8e2-4459-a0ea-568e8c254308&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=iHeartAlternativeRadio&ads.csid=xumo_web_iHeartAlternativeRadio_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3524&ads.xumo_contentName=iHeartAlternativeRadio&ads.xumo_providerId=3524&ads.xumo_providerName=iHeartAlternativeRadio&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995101&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
 
 #EXTINF:-1 tvg-name="iHeartRadio Hip Hop Beats" tvg-logo="https://image.xumo.com/v1/channels/channel/9995103/168x168.png?type=color_onBlack" group-title="Music", iHeart HIP HOP BEATS
 
@@ -1994,7 +1994,6 @@ https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://live.24hrkpop.com/hls/3/stream.m3u8
 
 #EXTINF:-1 tvg-id="Kplus.mv" tvg-name="KPOP+" tvg-logo="https://8upload.com/image/68553fc819866/kpopplushilay.png" group-title="Music", KPOP+
-https://maldivesn.net/hilaytv/kpopplus
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="Music", K-POP by CJ ENM
 https://jmp2.uk/stvp-US39000038W
