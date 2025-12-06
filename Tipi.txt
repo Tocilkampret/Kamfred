@@ -1661,7 +1661,7 @@ https://smart.946985.filegear-sg.me/smart.php?id=Assp2
 https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Sports+", astro Fotball
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Sports+", astro Football
 https://smart.946985.filegear-sg.me/smart.php?id=go_assp4
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/ebpvrUx.png" group-title="Sports+", astro SUPERSPORT 5
