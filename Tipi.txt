@@ -13,16 +13,9 @@
 
 
 
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/iLFx8ia.png", RCTI 
-https://liveplus.rctiplus.id/RTMP-IN.m3u8
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
@@ -98,25 +91,22 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 /#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 /http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png", METRO TV 
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-/#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png", rtv 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 /https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png", KOMPAS TV 
-https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mediampd/KOMPASTVHD.mpd
 
 /http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
@@ -1699,10 +1689,10 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 
 
 #EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.1.HD.in" tvg-logo="https://i.imgur.com/VFyADIN.png" group-title="Sports+" radio="false", STAR SPORTS SELECT 1 
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starsel.m3u8
+
 
 #EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-logo="https://i.imgur.com/6u2iOjA.png" group-title="Sports+" radio="false", STAR SPORTS SELECT 2 
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starse2.m3u8
+
 
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/hWdxcRX.png", LFCTV
 
@@ -1725,19 +1715,19 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starse2.m3
 
 
 #EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Sports+", ARENA SPORT 1
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-1.m3u8?raw=true
+
 
 #EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="Sports+", ARENA SPORT 2
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-2.m3u8?raw=true
 
-#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Sports+", ARENA SPORT 3
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-3.m3u8?raw=true
+
+#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://i.imgur.com/3r3burN.png"
+
 
 #EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="Sports+", ARENA SPORT 4
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-4.m3u8?raw=true
+
 
 #EXTINF:-1 tvg-id="Arena Sport 5.ba" tvg-logo="https://i.imgur.com/036qMgu.png" group-title="Sports+", ARENA SPORT 5
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-5.m3u8?raw=true
+
 
 #EXTINF:-1 tvg-id="Arena Sport 6.ba" tvg-logo="https://i.imgur.com/Z5PE4vx.png" group-title="Sports+", ARENA SPORT 6
 
@@ -1746,13 +1736,13 @@ https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-5.m3u8?raw=
 
 
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/csv6YsL.png", ARENA 1 PREMIUM
-http://4os6vafy.ottclub.xyz/iptv/AKK7DUVFEFYVGN4NPPYPAR3B/31599/index.m3u8
+
 
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/ztOmQ7P.png", ARENA 2 PREMIUM
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-premium2.m3u8?raw=true
+
 
 #EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://i.imgur.com/gpqemLf.png" group-title="Sports+", ARENA 3 PREMIUM 
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-premium3.m3u8?raw=true
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eHJ8Vm3.png" group-title="Sports+", SPORTV 
 
