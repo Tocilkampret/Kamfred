@@ -1610,32 +1610,41 @@ https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN
 #EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" group-title="Sports+" tvg-logo="https://i.imgur.com/6hQkqEL.png", beIN SPORTS XTRA ñ
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 group-title="Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", beIN SPORTS 1
+#EXTINF:-1 group-title="Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", beIN SPORTS 1 🇹🇭
 #EXTVLCOPT:http-referrer=https://www.dooballfree.vip/
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_2.png" group-title="Sports+", beIN SPORTS 2
+#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_2.png" group-title="Sports+", beIN SPORTS 2 🇹🇭
 #EXTVLCOPT:http-referrer=https://www.dooballfree.vip/
 https://ww.dooballfree.vip/live/bein2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_3.png" group-title="Sports+", beIN SPORTS 3
+#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_3.png" group-title="Sports+", beIN SPORTS 3 🇹🇭
 #EXTVLCOPT:http-referrer=https://www.dooballfree.vip/
 https://ww.dooballfree.vip/live/bein3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="Sports+", beIN SPORTS 4
+#EXTINF:-1 group-title="Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", beIN SPORTS 1 
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/BeinSport/beinsport1.m3u8
 
+#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_2.png" group-title="Sports+", beIN SPORTS 2 
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/BeinSport/beinsport2.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_3.png" group-title="Sports+", beIN SPORTS 3 
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/BeinSport/beinsport3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="Sports+", beIN SPORTS 4
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/BeinSport/beinsport4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Rha5aY.png" group-title="Sports+", beIN SPORTS 5
-
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/BeinSport/beinsport5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0wBdLYb.png" group-title="Sports+",beIN SPORTS 6
-
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/BeinSport/beinsport6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODFwZi.png" group-title="Sports+",beIN SPORTS 7
-
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/BeinSport/beinsport7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CaFEyVn.png" group-title="Sports+",beIN SPORTS 8
-
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/BeinSport/beinsport8.m3u8
 
 
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg", MONOMAX 1
@@ -2266,8 +2275,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="Malay", TV3
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
-https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Malay", astro AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
