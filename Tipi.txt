@@ -959,24 +959,25 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-name="Citra Bioskop" tvg-logo="https://i.imgur.com/KK1ipNk.png" group-title="Movies", Citra Bioskop
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/otNIlhu.png" group-title="Movies", BOO
 
-
+#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/tThW9R1.png" group-title="Movies", BIOSKOP INDONESIA 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/tThW9R1.png" group-title="Movies", BIOSKOP INDONESIA 
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3B145Ej.png" group-title="Movies", SINEMA INDONESIA
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Movies", DUNIA SINEMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
+
 
 #EXTINF:-1, group-title="Movies" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/filemmantapmy.png", FILEM MANTAP
 
@@ -2144,10 +2145,9 @@ https://jmp2.uk/stvp-US39000038W
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.imgur.com/B7ILXMcr.png" group-title="Music", KPOP2
 
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="Music" tvg-logo="https://thumbor.prod.vidiocdn.com/LXg-Kd3Sea2o60Wvw82XXsnzTUw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7004/12f134.png", PRAMBORS 
-https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=6-3278332010000000.mpd
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://thumbor.prod.vidiocdn.com/xpFtUOUrkJU8WgXFlfmsdM45G2M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7092/1f3060.jpg", Delta FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
