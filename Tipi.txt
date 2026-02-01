@@ -1823,7 +1823,8 @@ group-title="Sports+", ARENA SPORT 3
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/arenasport3.m3u8
 
 #EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="Sports+", ARENA SPORT 4
-
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/arenasport4.m3u8
 
 #EXTINF:-1 tvg-id="Arena Sport 5.ba" tvg-logo="https://i.imgur.com/036qMgu.png" group-title="Sports+", ARENA SPORT 5
 
