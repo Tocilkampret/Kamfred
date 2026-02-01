@@ -1748,11 +1748,11 @@ https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX4.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a70NzP2.png" group-title="Sports+", astro Premier League 
-
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Astro_Premier_League_2_%282024%29.png/800px-Astro_Premier_League_2_%282024%29.png" group-title="Sports+", astro Premier League 2
-https
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS2.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports+", astro Grandstand
