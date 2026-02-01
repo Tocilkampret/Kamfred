@@ -394,7 +394,8 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hlstl/Pabar.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png", SINDO NEWS TV 
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
+/https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l0JyOrm.png" group-title="News", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
@@ -636,8 +637,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mediampd/Nickelodeon.
 /http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479234&extension=ts
 
 #EXTINF:-1 tvg-id="NickToon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids", nick toons
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+http://143.244.60.30/NICKTOONS/index.m3u8
+/#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+/https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" tvg-id="ext" group-title="Kids", nick pluto tv  
 
@@ -2018,7 +2020,7 @@ https://jmp2.uk/rok-4c0772ef75e1565183843b37e91591f8.m3u8
 https://jmp2.uk/rok-94759dbd58a65682bcc573932f725f46.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/9RvbyTEtju0ARA_4PIUtKw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTE3NDtxPTgwO3c9MjIw/https://s.yimg.com/zb/imgv1/0bc94b68-8fb4-35c8-b912-cd4efd05b5ab/t_500x300" group-title="Music", NOW 90s 00s
-
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music", NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
