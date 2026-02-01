@@ -1849,14 +1849,25 @@ https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/arenasport3.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tGTVcVe.jpeg" group-title="Sports+", sports tv 
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/1600px-Sport_TV3_%282023%29.svg.png?20231021014305" group-title="Sports+", sports tv 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Sports+", sport tv 1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/sporttv1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="Sports+", sport tv 2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/sporttv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sport_TV4_%282023%29.svg/1600px-Sport_TV4_%282023%29.svg.png" group-title="Sports+", sport tv 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Dw3GUx.png" group-title="Sports+", sports tv 3
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/sporttv3.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJlbVfW.png" group-title="Sports+", sport tv 4
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/sporttv4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sport_TV5_%282016%29.svg/1172px-Sport_TV5_%282016%29.svg.png?20231017015425" group-title="Sports+", sport tv 5
- 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4w4vuad.png" group-title="Sports+", sport tv 5
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/sporttv5.m3u8
 
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/XS2BB02.png", Матч! Футбол 1
 
