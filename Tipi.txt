@@ -131,11 +131,13 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/YC7JCHo.png", DAAI TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nextgenz.my.id/event/pidio/play.m3u8?id=6482&type=hls
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
+https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.imgur.com/192wiS1.png" group-title="TV Nasional", INDONESIANA TV
-
+https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viun5hj.png" group-title="TV Nasional", nusantara tv
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -255,6 +257,9 @@ https://fta2-cdn-flr.visionplus.id/out/v1/44a2d1ab71a740babb233cf14832c59d/index
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/jlss2ll.png" group-title="TV Daerah",SURABAYA TV
 https://e.siar.us/live/surabayatv.m3u8
+
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://i.imgur.com/VEqQfTu.png", JITV 
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI ACEH
 #EXTGRP:TV Daerah 
