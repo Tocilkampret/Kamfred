@@ -1097,8 +1097,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 #EXTGRP:Movies
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="sonypix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png", SONY PIX
-http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=5410&deviceMac=00:1A:79:17:BF:CE
+#EXTINF:-1 group-title="Movies" tvg-id="sonypix.in" tvg-logo="https://s3.aynaott.com/storage/854d9b7f6c3274c5aa9a257452b9abbf", SONY PIX
+https://edge2.roarzone.info:8444/roarzone/bk/41/index.m3u8?token=2e29f5702a0caab68848e550356d19d79464ff50-511ad3c7e09ebcec3fdd2442d228123a-1770314949-1770311349
+/http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=5410&deviceMac=00:1A:79:17:BF:CE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0ykF8t.png", STAR MOVIES HD
 #EXTGRP:Movies
@@ -1433,7 +1434,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/logo_20231219_215946_68.png" group-title="Sports", mOTOR RaCING
-
+https://jmp2.uk/stvp-FRBD4100013LN
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7NeBmWX.jpg", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8 
@@ -1586,8 +1587,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1 channel-id="samsung-KRBD1900001Y2" tvg-id="KRBD1900001Y2" tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png" tvg-chno="840" group-title="Sports" , FIFA+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://jmp2.uk/stvp-IN270000230
+https://jmp2.uk/stvp-GBBD1100008YW
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
