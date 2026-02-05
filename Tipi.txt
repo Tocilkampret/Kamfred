@@ -1718,26 +1718,32 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein1.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_2.png" group-title="Sports+", beIN SPORTS 2 
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/BeinSport/beinsport2.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein2.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_3.png" group-title="Sports+", beIN SPORTS 3 
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein1.m3u8
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="Sports+", beIN SPORTS 4
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/BeinSport/beinsport4.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Rha5aY.png" group-title="Sports+", beIN SPORTS 5
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/BeinSport/beinsport5.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0wBdLYb.png" group-title="Sports+",beIN SPORTS 6
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/BeinSport/beinsport6.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODFwZi.png" group-title="Sports+",beIN SPORTS 7
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/BeinSport/beinsport7.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CaFEyVn.png" group-title="Sports+",beIN SPORTS 8
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/BeinSport/beinsport8.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein8.m3u8
 
 
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg", MONOMAX 1
