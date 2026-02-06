@@ -563,7 +563,7 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561201/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png ", NATIONAL GEOGRAPHIC WILD
-http://vipneeene.top:8080/live/VIP01155171629672980/bf7314c8358b/34361.
+http://vipneeene.top:8080/live/VIP01155171629672980/bf7314c8358b/34361
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png", animal planet 
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
