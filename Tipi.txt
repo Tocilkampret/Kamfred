@@ -550,6 +550,11 @@ https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discovery1.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/foLICwL.png", Discovery asia 
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest_w1465869984_qRFZS.mpd?encp=&uid=&expp=
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
+#EXTINF:-1 group-title="Knowledge" tvg-logo=", NATGEO WILD
+http://vipneeene.top:8080/live/VIP01155171629672980/bf7314c8358b/34361.
+
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png", animal planet 
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
@@ -1007,8 +1012,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/X7OZ3w5.png", Celestial Classic Movies 
 https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="Movies", CELESTIAL MOVIES 
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+http://vipneeene.top:8080/live/VIP01155171629672980/bf7314c8358b/34342.ts
+/http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1033,8 +1041,10 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 
 
  
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/D2qNVZ7.png", Cinema World
-
+http://vipneeene.top:8080/live/VIP01155171629672980/bf7314c8358b/34428.ts
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -1143,12 +1153,16 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png", AXN 
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
 #EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="Entertainment", WB TV 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+http://vipneeene.top:8080/live/VIP01155171629672980/bf7314c8358b/34349.ts
+
+/#KODIPROP:inputstream.adaptive.manifest_type=dash
+/#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+/#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+/#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
+/https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1161,6 +1175,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b53
 #EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Entertainment", ROCK https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
 /#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/HcIihFY.png", Paramount NETWORK
+https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
@@ -1594,6 +1609,12 @@ https://jmp2.uk/stvp-GBBD1100008YW
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/wuduAXD.png", SOCCER CHANNEL
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/SclaeuC.png",
+VOLI TV
+http://103.160.205.142:9999/stream/channelid/1572314271?profile=pass
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sports", MUTV
 
 #EXTINF:-1 xui-id="77943" tvg-id="BARCATV" tvg-name="|ES| BARCA TV FHD" tvg-logo="https://i.imgur.com/E2VDORP.png" group-title="Sports",BARCA TV
@@ -1615,12 +1636,16 @@ https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17139&type=dash
 
 /https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+/#KODIPROP:inputstream.adaptive.license_type=clearkey
+/#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+/#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+/#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/pM0HTNU.png", SPOTV 2
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+http://vipneeene.top:8080/live/VIP01155171629672980/bf7314c8358b/34405.ts
+/https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/6sPvZmS/wsport.png", W-Sport
