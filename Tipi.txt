@@ -659,12 +659,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mediampd/Nickelodeon.
 /http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479234&extension=ts
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png", nickelodeon
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+
 
 #EXTINF:-1 tvg-id="NickToon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids", nick toons
-http://143.244.60.30/NICKTOONS/index.m3u8
-/#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-/https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" tvg-id="ext" group-title="Kids", nick pluto tv  
 
@@ -786,6 +784,20 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/DISNEYJRHD/default.mpd
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/disney-xd-hd-ca.png?raw=true" group-title="Kids", DiSNEY XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
+#EXTINF:-1 tvg-id="ytv" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/ytv.png" group-title="Kids", YTV
+https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
+#EXTINF:-1 tvg-id="treehouse" tvg-name="__" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-29_23-06-43-579.png" group-title="Kids", Treehouse
+https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
