@@ -1212,14 +1212,13 @@ http://vipneeene.top:8080/live/VIP01155171629672980/bf7314c8358b/34349.ts
 /https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Entertainment", ROCK https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+
+#EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Entertainment"
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
+https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/HcIihFY.png", Paramount NETWORK
 https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/tracks-v1a1/playlist.m3u8
