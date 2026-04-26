@@ -2248,26 +2248,22 @@ https://jmp2.uk/stvp-US39000038W
 https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=6-3278332010000000.mpd
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://thumbor.prod.vidiocdn.com/xpFtUOUrkJU8WgXFlfmsdM45G2M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7092/1f3060.jpg", Delta FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://s1.cloudmu.id/listen/delta_fm/radio.mp3
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/IRadio_%282012%29.png/400px-IRadio_%282012%29.png", i-Radio
 http://stream.radiojar.com/4ywdgup3bnzuv
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://thumbor.prod.vidiocdn.com/Tr0Vuh-AYGAtQrJfkitEO3cQIpc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7443/36d403.jpg", Gen FM Jakarta
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://thumbor.prod.vidiocdn.com/QoRkZfbTP6mpweD_Xf0WuMjHEvM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7166/84b749.png", Elshinta 90 FM
 https://stream-ssl.arenastreaming.com:8000/jakarta
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://thumbor.prod.vidiocdn.com/gu1cRhrShOpVQqNnw-0SEJEUPvY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7445/308abe.jpg", Kis FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://thumbor.prod.vidiocdn.com/vqV0em60m9YJLIWRfKUUcpRZqc8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7449/c40e40.jpg", Jak FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://thumbor.prod.vidiocdn.com/DRRtBDeg9-cADQG8TD-Gw8cJWuo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7053/821869.png", Hard Rock FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
