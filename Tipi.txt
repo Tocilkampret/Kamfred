@@ -2242,6 +2242,17 @@ https://jmp2.uk/stvp-US39000038W
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.imgur.com/B7ILXMcr.png" group-title="Music", KPOP2
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://netplayer.net/files/radioStations/dc-101_200x200_M634wqy4fB.jpg", DC 101
+https://stream.revma.ihrhls.com/zc2525/29_am5zeo6y6qzj02/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://netplayer.net/files/radioStations/97-1-wash-fm_200x200_0qye0B93xiP.png", 97.1 WASH-FM
+https://stream.revma.ihrhls.com/zc2501
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://netplayer.net/files/radioStations/big-100_200x200_HYAMnnCZPxy.png", BIG 100.3
+https://stream.revma.ihrhls.com/zc2505
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://netplayer.net/files/radioStations/hot-995_200x200_XnsmZNfi9g.png", HOT 99.5
+https://stream.revma.ihrhls.com/zc2509
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://thumbor.prod.vidiocdn.com/LXg-Kd3Sea2o60Wvw82XXsnzTUw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7004/12f134.png", PRAMBORS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
