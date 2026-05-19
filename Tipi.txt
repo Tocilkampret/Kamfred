@@ -1175,7 +1175,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="sonypix.in" tvg-logo="https://s3.aynaott.com/storage/854d9b7f6c3274c5aa9a257452b9abbf", SONY PIX
-http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=5410&deviceMac=00:1A:79:17:BF:CE
+http://103.157.248.140:8000/play/a01r/index.m3u8
+/http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=5410&deviceMac=00:1A:79:17:BF:CE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0ykF8t.png", STAR MOVIES HD
 #EXTGRP:Movies
