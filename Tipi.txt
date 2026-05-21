@@ -81,7 +81,7 @@ https://aspaltvpasti.top/11111/205.mpd
 
 /https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+/#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -91,10 +91,6 @@ https://aspaltvpasti.top/11111/205.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-
-/#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-/http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png", SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -195,46 +191,51 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="HBO Group", CINEMAX
 https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
 /https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
 /#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=/https://kelontong.semar.my.id/cumbudrm.php
+/#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+/#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+/#KODIPROP:inputstream.adaptive.license_key=/https://kelontong.semar.my.id/cumbudrm.php
 /https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 group-title="HBO Group" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115", HBO 
 https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
 /https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+/#KODIPROP:inputstream.adaptive.manifest_type=dash
 /#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=/https://kelontong.semar.my.id/cumbudrm.php
+/#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+/#KODIPROP:inputstream.adaptive.license_key=/https://kelontong.semar.my.id/cumbudrm.php
 /https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbofamilyasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115", HBO Family 
 https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
 /https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
 /#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=/https://kelontong.semar.my.id/cumbudrm.php
+/#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+/#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+/#KODIPROP:inputstream.adaptive.license_key=/https://kelontong.semar.my.id/cumbudrm.php
 /https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTINF:-1 group-title="HBO Group" tvg-logo="https://i.imgur.com/CTjmocc.png", HBO HiTS 
 https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
 /https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
 /#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=/https://kelontong.semar.my.id/cumbudrm.php
+/#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+/#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+/#KODIPROP:inputstream.adaptive.license_key=/https://kelontong.semar.my.id/cumbudrm.php
 /https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:-1 group-title="HBO Group" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115", HBO Signature 
 https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
 /https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
 /#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=/https://kelontong.semar.my.id/cumbudrm.php
+/#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+/#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+/#KODIPROP:inputstream.adaptive.license_key=/https://kelontong.semar.my.id/cumbudrm.php
 /https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 
