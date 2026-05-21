@@ -880,11 +880,11 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ka5OY8k.png" group-title="Kids", mentari tv 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d96a81a887fd46f1b18e1fd48c2eeb81:fb8947a8804c874cc0f0b71bdb609ca0
-https://cdnbal1.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #EXTINF:-1 tvg-id="IndiKids.id" tvg-name="IndiKids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fun_Planet.png/1200px-Fun_Planet.png" group-title="Kids", Fun pLaNeT
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -898,19 +898,16 @@ http://202.169.224.202:8800/udp/239.9.1.28:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q6WFRc7/Boi-astro-ceria.jpg" group-title="Kids", astro Ceria
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+
 #EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee!" tvg-logo="https://i.imgur.com/S4aoHg8.png" group-title="Kids", HoRee!
-https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/nuzIBbN.png" group-title="Kids", moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
 #EXTINF:-0 tvg-logo="https://i.imgur.com/Ja9Rx9p.png" group-title="Kids", my KiDZ
-http://khano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids", BABY SHARK
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
@@ -1230,7 +1227,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
