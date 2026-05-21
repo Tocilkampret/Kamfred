@@ -68,7 +68,8 @@ https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
 /#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional", INDOSIAR 
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
+/https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
 
 /#EXTVLCOPT:http-referrer=https://m.vidio.com/
 /#KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -81,24 +82,8 @@ https://aspaltvpasti.top/11111/205.mpd
 
 /https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-/#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png", SCTV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd 
+https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mM9zapJ.png" group-title="TV Nasional", moji
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
