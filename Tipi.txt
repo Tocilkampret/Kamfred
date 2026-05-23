@@ -323,23 +323,29 @@ https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI ACEH
 #EXTGRP:TV Daerah 
-https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10003-mp4a_96000=20001.m3u8
+/https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzdMyCs.png", TVRI SUMATERA UTARA
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Sumut/hlstl/Sumut.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8
+/https://ott-balancer.tvri.go.id/live/eds/Sumut/hlstl/Sumut.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSERkWC.png", TVRI RIAU
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8
+/https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CkZf4bq.png", TVRI SUMATERA BARAT
 #EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hlstl/Sumbar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qswy60o.png", TVRI BENGKULU
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hlstl/Bengkulu.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_1500000=10007-mp4a_96000=20001.m3u8
+/https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hlstl/Bengkulu.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0Ulmy5.png", TVRI JAMBI
 #EXTGRP:TV Daerah
@@ -355,7 +361,8 @@ https://ott-balancer.tvri.go.id/live/eds/Lampung/hlstl/Lampung.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI BANGKA BELITUNG
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Babel/hlstl/Babel.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+/https://ott-balancer.tvri.go.id/live/eds/Babel/hlstl/Babel.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSgiYnp.png", TVRI JAKARTA
 #EXTGRP:TV Daerah
