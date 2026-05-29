@@ -324,13 +324,11 @@ https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI ACEH
 #EXTGRP:TV Daerah 
-https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10003-mp4a_96000=20001.m3u8
-/https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10004-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzdMyCs.png", TVRI SUMATERA UTARA
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8
-/https://ott-balancer.tvri.go.id/live/eds/Sumut/hlstl/Sumut.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut-avc1_1500000=10002-mp4a_96000_eng=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSERkWC.png", TVRI RIAU
 #EXTGRP:TV Daerah
@@ -340,38 +338,30 @@ https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau-avc1_1500000=10003-mp4a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CkZf4bq.png", TVRI SUMATERA BARAT
 #EXTGRP:TV Daerah
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8
-https://ott-balancer.tvri.go.id/live/eds/Sumbar/hlstl/Sumbar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qswy60o.png", TVRI BENGKULU
 #EXTGRP:TV Daerah
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_1500000=10007-mp4a_96000=20001.m3u8
-/https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hlstl/Bengkulu.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0Ulmy5.png", TVRI JAMBI
 #EXTGRP:TV Daerah
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_1500000=10005-mp4a_96000=20001.m3u8
-/https://ott-balancer.tvri.go.id/live/eds/Jambi/hlstl/Jambi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png", TVRI SUMATERA SELATAN
 #EXTGRP:TV Daerah
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
-/https://ott-balancer.tvri.go.id/live/eds/Sumsel/hlstl/Sumsel.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8102yhJ.png", TVRI LAMPUNG
 #EXTGRP:TV Daerah
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung-avc1_1500000=10006-mp4a_96000_eng=20001.m3u8
-https://ott-balancer.tvri.go.id/live/eds/Lampung/hlstl/Lampung.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI BANGKA BELITUNG
 #EXTGRP:TV Daerah
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_1500000=10003-mp4a_96000=20001.m3u8
-/https://ott-balancer.tvri.go.id/live/eds/Babel/hlstl/Babel.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSgiYnp.png", TVRI JAKARTA
 #EXTGRP:TV Daerah
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10002-mp4a_96000=20001.m3u8
-https://ott-balancer.tvri.go.id/live/eds/DKI/hlstl/DKI.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rrRMl08.png", TVRI JAWA BARAT
 #EXTGRP:TV Daerah
@@ -380,22 +370,18 @@ https://ott-balancer.tvri.go.id/live/eds/Jabar/hlstl/Jabar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLrmZvc.png", TVRI JAWA TENGAH
 #EXTGRP:TV Daerah
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_1500000=10006-mp4a_96000=20001.m3u8
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hlstl/Jateng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcH92DJ.png", TVRI YOGYAKARTA
 #EXTGRP:TV Daerah
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
-https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hlstl/Jogjakarta.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vxe6tcn.png", TVRI JAWA TIMUR 
 #EXTGRP:TV Daerah
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_1500000=10006-mp4a_96000=20001.m3u8
-https://ott-balancer.tvri.go.id/live/eds/Jatim/hlstl/Jatim.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3N6NDPf.png", TVRI BALI
 #EXTGRP:TV Daerah
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_1500000=10001-mp4a_96000=20001.m3u8
-https://ott-balancer.tvri.go.id/live/eds/Bali/hlstl/Bali.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI NUSA TENGGARA BARAT
 #EXTGRP:TV Daerah
