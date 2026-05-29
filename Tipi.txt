@@ -460,10 +460,11 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hlstl/Pabar-avc1_1500000=10007-mp
 
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/512px-INews.png", iNews 
-https://indihuy.streamized.net/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/inews-avc1_2500000=7-3277707030000000.mpd
+/https://indihuy.streamized.net/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png", SINDO NEWS TV 
-https://indihuy.streamized.net/atm/DASH/mncnews/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
