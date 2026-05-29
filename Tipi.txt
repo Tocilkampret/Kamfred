@@ -399,19 +399,19 @@ https://ott-balancer.tvri.go.id/live/eds/Bali/hlstl/Bali.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI NUSA TENGGARA BARAT
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/NTB/hlstl/NTB.m3u8
+https://ott-balancer.tvri.go.id/live/eds/NTB/hlstl/NTB-avc1_1500000=10002-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/acFJNef.png", TVRI NUSA TENGGARA TIMUR
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/NTT/hlstl/NTT.m3u8
+https://ott-balancer.tvri.go.id/live/eds/NTT/hlstl/NTT-avc1_1500000=10002-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI KALIMANTAN BARAT
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Kalbar/hlstl/Kalbar.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hlstl/Kalbar-avc1_1500000=10005-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KQSlIQt.png", TVRI KALIMANTAN TENGAH
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Kalteng/hlstl/Kalteng.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hlstl/Kalteng-avc1_1500000=10008-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI KALIMANTAN SELATAN
 #EXTGRP:TV Daerah
