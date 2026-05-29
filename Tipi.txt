@@ -370,6 +370,7 @@ https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_1500000=10003-mp4a
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSgiYnp.png", TVRI JAKARTA
 #EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10002-mp4a_96000=20001.m3u8
 https://ott-balancer.tvri.go.id/live/eds/DKI/hlstl/DKI.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rrRMl08.png", TVRI JAWA BARAT
@@ -378,18 +379,22 @@ https://ott-balancer.tvri.go.id/live/eds/Jabar/hlstl/Jabar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLrmZvc.png", TVRI JAWA TENGAH
 #EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_1500000=10006-mp4a_96000=20001.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hlstl/Jateng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcH92DJ.png", TVRI YOGYAKARTA
 #EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hlstl/Jogjakarta.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vxe6tcn.png", TVRI JAWA TIMUR 
 #EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_1500000=10006-mp4a_96000=20001.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hlstl/Jatim.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3N6NDPf.png", TVRI BALI
 #EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_1500000=10001-mp4a_96000=20001.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Bali/hlstl/Bali.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI NUSA TENGGARA BARAT
