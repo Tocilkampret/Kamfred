@@ -360,6 +360,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8102yhJ.png", TVRI LAMPUNG
 #EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung-avc1_1500000=10006-mp4a_96000_eng=20001.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hlstl/Lampung.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI BANGKA BELITUNG
