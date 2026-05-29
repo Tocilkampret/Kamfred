@@ -415,51 +415,51 @@ https://ott-balancer.tvri.go.id/live/eds/Kalteng/hlstl/Kalteng-avc1_1500000=1000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI KALIMANTAN SELATAN
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Kalsel/hlstl/Kalsel.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hlstl/Kalsel-avc1_1500000=100016-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="", TVRI KALIMANTAN UTARA 
 #EXTGRP:TV Daerah
-#https://ott-balancer.tvri.go.id/live/eds/Kaltara/hlstl/Kaltara.m3u8
+/https://ott-balancer.tvri.go.id/live/eds/Kaltara/hlstl/Kaltara-avc1_1500000=10001-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ND64L5.png", TVRI KALIMANTAN TIMUR
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Kaltim/hlstl/Kaltim.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hlstl/Kaltim-avc1_1500000=10006-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI SULAWESI BARAT
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Sulbar/hlstl/Sulbar.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hlstl/Sulbar-avc1_1500000=10002-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI SULAWESI TENGAH
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Sulteng/hlstl/Sulteng.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hlstl/Sulteng-avc1_1500000=10001-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCJnteP.png", TVRI SULAWESI SELATAM
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Sulsel/hlstl/Sulsel.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hlstl/Sulsel-avc1_1500000=10001-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI GORONTALO
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hlstl/Gorontalo.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hlstl/Gorontalo-avc1_1500000=10005-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI SULAWESI UTARA
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Sulut/hlstl/Sulut.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hlstl/Sulut-avc1_1500000=10002-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI SULAWESI TENGGARA
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Sultra/hlstl/Sultra.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hlstl/Sultra-avc1_1500000=10001-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI AMBON
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Ambon/hlstl/Ambon.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hlstl/Ambon-avc1_1500000=10007-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQ7Aqy5.png", TVRI PAPUA
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Papua/hlstl/Papua.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Papua/hlstl/Papua-avc1_1500000=10002-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI PAPUA BARAT
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Pabar/hlstl/Pabar.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hlstl/Pabar-avc1_1500000=10007-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-logo="", TVRI 
 #EXTGRP:TV Daerah
