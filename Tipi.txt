@@ -170,15 +170,10 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="HBO Group", CINEMAX
-https://cubmu.mediaflow.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9fab699052464e1fb80edbf4c3172d49:898ef56c4582437183d430c4f3f24088
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+/https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 /https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
 /https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
-/https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF:-1 group-title="HBO Group" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115", HBO 
 https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
