@@ -329,128 +329,127 @@ https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI ACEH
 #EXTGRP:TV Daerah 
-https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10004-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzdMyCs.png", TVRI SUMATERA UTARA
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut-avc1_1500000=10002-mp4a_96000_eng=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSERkWC.png", TVRI RIAU
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8
-/https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CkZf4bq.png", TVRI SUMATERA BARAT
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qswy60o.png", TVRI BENGKULU
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_1500000=10007-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0Ulmy5.png", TVRI JAMBI
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png", TVRI SUMATERA SELATAN
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8102yhJ.png", TVRI LAMPUNG
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung-avc1_1500000=10006-mp4a_96000_eng=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI BANGKA BELITUNG
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSgiYnp.png", TVRI JAKARTA
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10002-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rrRMl08.png", TVRI JAWA BARAT
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLrmZvc.png", TVRI JAWA TENGAH
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcH92DJ.png", TVRI YOGYAKARTA
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vxe6tcn.png", TVRI JAWA TIMUR 
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3N6NDPf.png", TVRI BALI
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_1500000=10001-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI NUSA TENGGARA BARAT
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/NTB/hlstl/NTB-avc1_1500000=10002-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/acFJNef.png", TVRI NUSA TENGGARA TIMUR
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/NTT/hlstl/NTT-avc1_1500000=10002-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI KALIMANTAN BARAT
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Kalbar/hlstl/Kalbar-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KQSlIQt.png", TVRI KALIMANTAN TENGAH
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Kalteng/hlstl/Kalteng-avc1_1500000=10008-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI KALIMANTAN SELATAN
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Kalsel/hlstl/Kalsel-avc1_1500000=100016-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="", TVRI KALIMANTAN UTARA 
 #EXTGRP:TV Daerah
-/https://ott-balancer.tvri.go.id/live/eds/Kaltara/hlstl/Kaltara-avc1_1500000=10001-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ND64L5.png", TVRI KALIMANTAN TIMUR
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Kaltim/hlstl/Kaltim-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI SULAWESI BARAT
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Sulbar/hlstl/Sulbar-avc1_1500000=10002-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI SULAWESI TENGAH
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Sulteng/hlstl/Sulteng-avc1_1500000=10001-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCJnteP.png", TVRI SULAWESI SELATAM
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Sulsel/hlstl/Sulsel-avc1_1500000=10001-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI GORONTALO
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hlstl/Gorontalo-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI SULAWESI UTARA
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Sulut/hlstl/Sulut-avc1_1500000=10002-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI SULAWESI TENGGARA
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Sultra/hlstl/Sultra-avc1_1500000=10001-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI AMBON
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Ambon/hlstl/Ambon-avc1_1500000=10007-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQ7Aqy5.png", TVRI PAPUA
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Papua/hlstl/Papua-avc1_1500000=10002-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png", TVRI PAPUA BARAT
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds/Pabar/hlstl/Pabar-avc1_1500000=10007-mp4a_96000=20001.m3u8
+
 
 #EXTINF:-1 tvg-logo="", TVRI 
 #EXTGRP:TV Daerah
@@ -1493,52 +1492,22 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/EaRVaEX.png", CHAMPIONS TV 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=dash
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/IgGVlgI.png", CHAMPIONS TV 2 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17939&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=17939&type=dash
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1MBBBBN.png" group-title="Sports", CHAMPIONS TV 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=dash
+
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yRBAoM6H7dAkEINjwCH-TVbeacE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png" group-title="Sports", CHAMPIONS TV 5 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=91828&type=dash
+
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mlEiapp7GXmQN5-WBHtM1EY6-kM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png" group-title="Sports", CHAMPIONS TV 6 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" group-title="Sports", Premier League TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9353&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=9353&type=dash
+
 
 #EXTINF:-1 tvg-id="ts812" tvg-logo="https://i.ibb.co.com/9c6LmLW/eurosp.png" group-title="Sports", EUROSPORT 
 
@@ -1676,10 +1645,7 @@ https://slive.mana2.my/SpotvNow/index.mpd
 https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
 
 #EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports", NBA TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
